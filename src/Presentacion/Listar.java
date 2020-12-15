@@ -10,7 +10,7 @@ import Negocio.Documento;
 
 /**
  *
- * @author javier
+ * @author James Gabriel
  */
 public class Listar extends javax.swing.JFrame {
 

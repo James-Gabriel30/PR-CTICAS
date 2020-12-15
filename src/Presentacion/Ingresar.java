@@ -11,7 +11,7 @@ import Negocio.Revista;
 
 /**
  *
- * @author javier
+ * @author James Gabriel
  */
 public class Ingresar extends javax.swing.JFrame {
 

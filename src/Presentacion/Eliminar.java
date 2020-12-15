@@ -9,7 +9,7 @@ import Datos.Registro;
 
 /**
  *
- * @author javier
+ * @author James Gabriel
  */
 public class Eliminar extends javax.swing.JFrame {
 

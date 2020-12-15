@@ -7,7 +7,7 @@ package Negocio;
 
 /**
  *
- * @author James Gbariel
+ * @author James Gabriel
  */
 public class Documento {
     private int codigo;
