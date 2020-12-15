@@ -7,7 +7,7 @@ package Negocio;
 
 /**
  *
- * @author javier
+ * @author James Gabriel
  */
 public class Revista extends Documento{
     private int volumen;

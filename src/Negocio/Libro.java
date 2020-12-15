@@ -7,7 +7,7 @@ package Negocio;
 
 /**
  *
- * @author javier
+ * @author James Gabriel
  */
 public class Libro extends Documento{
     private boolean prestado;
